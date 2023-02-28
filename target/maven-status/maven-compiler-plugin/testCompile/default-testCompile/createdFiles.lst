@@ -1,0 +1,5 @@
+com\flipkart_v001\utilities\Reporting.class
+com\flipkart_v001\pageObjects\productorderPage.class
+com\flipkart_v001\utilities\readConfig.class
+com\flipkart_v001\testCase\baseClass.class
+com\flipkart_v001\testCase\TC_productbuyTest_001.class
